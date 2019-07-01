@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="calc.hint.input">Introduce tu transacción</string>
+    <string name="calc.btn.seven">7</string>
+    <string name="calc.btn.Point">.</string>
+    <string name="calc.btn.One">1</string>
+    <string name="calc.btn.Four">4</string>
+    <string name="calc.btn.Eight">8</string>
+    <string name="calc.btn.Five">5</string>
+    <string name="calc.btn.Two">2</string>
+    <string name="calc.btn.Cero">0</string>
+    <string name="calc.btn.Nine">9</string>
+    <string name="calc.btn.Six">6</string>
+    <string name="calc.btn.Three">3</string>
+    <string name="calc.btn.Equal">=</string>
+    <string name="calc.btn.Clear">C</string>
+    <string name="calc.btn.div">÷</string>
+    <string name="calc.btn.multi">x</string>
+    <string name="calc.btn.sum">+</string>
+    <string name="calc.btn.res">-</string>
+</resources>

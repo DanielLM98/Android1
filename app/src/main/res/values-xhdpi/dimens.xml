@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="calc.input.height" tools:ignore="MissingDefaultResource">96dp</dimen>
+    <dimen name="calc.btn.size" tools:ignore="MissingDefaultResource">64dp</dimen>
+    <dimen name="calc.btn.textSize" tools:ignore="MissingDefaultResource">28sp</dimen>
+    <dimen name="calc.horizontal.margin" tools:ignore="MissingDefaultResource">16dp</dimen>
+    <dimen name="calc.vertical.margin" tools:ignore="MissingDefaultResource">16dp</dimen>
+</resources>
