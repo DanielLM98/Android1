@@ -21,7 +21,7 @@ public class Metodos {
         return operator;
     }
 
-    public static void tryResolve(boolean fromResult, EditText etInput, OnResolveCallback callback) {
+    public static void tryResolve(boolean fromResult, EditText etInput, OnResolveCallBack callback) {
         String operation = etInput.getText().toString();
 
         if (operation.isEmpty()) {
