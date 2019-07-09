@@ -18,4 +18,5 @@
     <string name="calc.btn.multi">x</string>
     <string name="calc.btn.sum">+</string>
     <string name="calc.btn.res">-</string>
+    <string name="message_exp_incorrect">Valor Incorrecto</string>
 </resources>
