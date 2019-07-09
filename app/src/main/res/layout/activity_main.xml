@@ -204,7 +204,7 @@
         </LinearLayout>
     </RelativeLayout>
     <Button
-        android:id="@+id/bnt.result"
+        android:id="@+id/bntResult"
         android:layout_width="match_parent"
         android:layout_height="@dimen/calc.btn.size"
         android:theme="@style/ButtonMDarker"
