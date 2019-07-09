@@ -31,10 +31,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void configEditText() {
-        etInput.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                InputMethodManager input = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+        etInput.setOnClickListener(view -> {
+            InputMethodManager input = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+            if (input != null) {
                 input.hideSoftInputFromWindow(view.getWindowToken(), 0);
             }
         });
